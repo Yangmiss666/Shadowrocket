@@ -10,13 +10,32 @@ dns-server = https://1.12.12.12/dns-query, https://223.5.5.5/dns-query
 update-url = https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_whitelist.conf
 
 [Rule]
+#自行手动添加的新网站
 DOMAIN-SUFFIX,jd.com,DIRECT
 DOMAIN-SUFFIX,douyin.com,DIRECT
 DOMAIN-SUFFIX,zhihu.com,DIRECT
 DOMAIN-SUFFIX,csdn.net,DIRECT
-DOMAIN-SUFFIX,weibo.com,DIRECT
-
-
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-SUFFIX,1688.com,DIRECT
+DOMAIN-SUFFIX,feishu.cn,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,sohu.com,DIRECT
+DOMAIN-SUFFIX,sina.com.cn,DIRECT
+DOMAIN-SUFFIX,aliyun.com,DIRECT
+DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
+DOMAIN-SUFFIX,douyu.com,DIRECT
+DOMAIN-SUFFIX,douban.com,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+DOMAIN-SUFFIX,hao123.com,DIRECT
+DOMAIN-SUFFIX,hupu.com,DIRECT
+DOMAIN-SUFFIX,51cto.com,DIRECT
+DOMAIN-SUFFIX,juejin.cn,DIRECT
+DOMAIN-SUFFIX,deepl.com,DIRECT
+DOMAIN-SUFFIX,360.com,DIRECT
+DOMAIN-SUFFIX,youdao.com,DIRECT
+DOMAIN-SUFFIX,jianshu.com,DIRECT
+DOMAIN-SUFFIX,alipan.com,DIRECT
 #
 # 白名单中包含了境外网站中可以访问的那些，对不确定的网站则尽可能地代理。
 #
