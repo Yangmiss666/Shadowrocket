@@ -12,6 +12,11 @@ update-url = https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_t
 [Rule]
 DOMAIN-SUFFIX,jd.com,DIRECT
 DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,zhihu.com,DIRECT
+DOMAIN-SUFFIX,csdn.net,DIRECT
+DOMAIN-SUFFIX,weibo.com,DIRECT
+
+
 #
 # 白名单中包含了境外网站中可以访问的那些，对不确定的网站则尽可能地代理。
 #
